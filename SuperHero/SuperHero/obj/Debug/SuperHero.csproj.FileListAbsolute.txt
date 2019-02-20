@@ -1,0 +1,7 @@
+c:\users\hackeru\source\repos\SuperHero\SuperHero\bin\Debug\SuperHero.exe.config
+c:\users\hackeru\source\repos\SuperHero\SuperHero\bin\Debug\SuperHero.exe
+c:\users\hackeru\source\repos\SuperHero\SuperHero\bin\Debug\SuperHero.pdb
+c:\users\hackeru\source\repos\SuperHero\SuperHero\obj\Debug\SuperHero.csprojResolveAssemblyReference.cache
+c:\users\hackeru\source\repos\SuperHero\SuperHero\obj\Debug\SuperHero.csproj.CoreCompileInputs.cache
+c:\users\hackeru\source\repos\SuperHero\SuperHero\obj\Debug\SuperHero.exe
+c:\users\hackeru\source\repos\SuperHero\SuperHero\obj\Debug\SuperHero.pdb
